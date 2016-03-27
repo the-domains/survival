@@ -1,0 +1,28 @@
+name: Survival
+favicon: null
+layout_spectrum: 0.556868631625548
+typography_spectrum: 0.18941856804303825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.16770817781798542
+  lightness: 0.5765843524131924
+  saturation: 0.8531792575959116
+  rhythmicContrast: 0.717681004665792
+purpose: []
