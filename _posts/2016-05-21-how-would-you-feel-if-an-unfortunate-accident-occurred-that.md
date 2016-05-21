@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'How would you feel if an unfortunate accident occurred that required you to survive on your own for a period of seventy-two hours? ‘Dreadful’ is probably the word you are looking for. If you wish to evade the discomfort of not having any essentials while experiencing such a predicament, you should start working on your ‘bug-out bag’ right away!'
-datePublished: '2016-05-21T13:37:09.248Z'
-dateModified: '2016-05-21T13:35:39.954Z'
+datePublished: '2016-05-21T13:53:35.329Z'
+dateModified: '2016-05-21T13:37:15.369Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-how-would-you-feel-if-an-unfortunate-accident-occurred-that.md
