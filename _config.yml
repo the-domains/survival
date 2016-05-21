@@ -2,6 +2,7 @@ name: Survival
 favicon: null
 layout_spectrum: 0.49415
 typography_spectrum: 0.50225
+title: Survival
 cta:
   domain: null
   bucket: null
