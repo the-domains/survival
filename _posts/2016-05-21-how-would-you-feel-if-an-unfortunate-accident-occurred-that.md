@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' How would you feel if an unfortunate accident occurred that required you to survive on your own for a period of seventy-two hours? ‘Dreadful’ is probably the word you are looking for. If you wish to evade the discomfort of not having any essentials while experiencing such a predicament, you should start working on your ‘bug-out bag’ right away!'
-datePublished: '2016-05-21T12:14:34.825Z'
-dateModified: '2016-05-21T12:13:49.638Z'
+datePublished: '2016-05-21T12:52:25.422Z'
+dateModified: '2016-05-21T12:52:07.987Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-how-would-you-feel-if-an-unfortunate-accident-occurred-that.md
@@ -17,6 +17,8 @@ url: how-would-you-feel-if-an-unfortunate-accident-occurred-that/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3e70509-5fcf-4f74-afd0-5818c61843fd.jpg)
+
 How would you feel if an unfortunate accident occurred that required you to survive on your own for a period of seventy-two hours? 'Dreadful' is probably the word you are looking for. If you wish to evade the discomfort of not having any essentials while experiencing such a predicament, you should start working on your 'bug-out bag' right away!
 
 A bug-out bag refers to a kit that contains the essentials that you would most likely require in order to survive extended periods of time. Its primary function is to help you evacuate a place instantly if a disaster strikes in order to give you enough time to get to a safe place.
