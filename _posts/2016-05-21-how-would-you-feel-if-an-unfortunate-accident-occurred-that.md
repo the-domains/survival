@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ' How would you feel if an unfortunate accident occurred that required you to survive on your own for a period of seventy-two hours? ‘Dreadful’ is probably the word you are looking for. If you wish to evade the discomfort of not having any essentials while experiencing such a predicament, you should start working on your ‘bug-out bag’ right away!'
-datePublished: '2016-05-21T12:52:25.422Z'
-dateModified: '2016-05-21T12:52:07.987Z'
+description: 'How would you feel if an unfortunate accident occurred that required you to survive on your own for a period of seventy-two hours? ‘Dreadful’ is probably the word you are looking for. If you wish to evade the discomfort of not having any essentials while experiencing such a predicament, you should start working on your ‘bug-out bag’ right away!'
+datePublished: '2016-05-21T13:37:09.248Z'
+dateModified: '2016-05-21T13:35:39.954Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-how-would-you-feel-if-an-unfortunate-accident-occurred-that.md
@@ -18,6 +18,8 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3e70509-5fcf-4f74-afd0-5818c61843fd.jpg)
+
+# EVAQ8 Emergency Go Bag 72 Hour Survival Kit Complete
 
 How would you feel if an unfortunate accident occurred that required you to survive on your own for a period of seventy-two hours? 'Dreadful' is probably the word you are looking for. If you wish to evade the discomfort of not having any essentials while experiencing such a predicament, you should start working on your 'bug-out bag' right away!
 
