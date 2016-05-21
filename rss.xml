@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Survival]]></title>
         <description><![CDATA[Survival]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/survival/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 12:02:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 May 2016 12:09:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/survival/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p> How would you feel if an unfortunate accident occurred that required you to survive on your own for a period of seventy-two hours? ‘Dreadful’ is probably the word you are looking for. If you wish to evade the discomfort of not having any essentials while experiencing such a predicament, you should start working on your ‘bug-out bag’ right away!</p>]]></description>
-            <link>undefinedhow-would-you-feel-if-an-unfortunate-accident-occurred-that/index.html</link>
+            <description><![CDATA[<p> How would you feel if an unfortunate accident occurred that required you to survive on your own for a period of seventy-two hours? ‘Dreadful’ is probably the word you are looking for. If you wish to evade the discomfort of not having any essentials while experiencing such a predicament, you should start working on your ‘bug-out bag’ right away! A bug-out bag refers to a kit that contains the essentials that you would most likely require in order to survive extended periods of time. Its primary function is to help you evacuate a place instantly if a disaster strikes in order to give you enough time to get to a safe place. It has been recommended by experts belonging to disaster management and relief committees that your bug-out bag must contain enough supplies to last for at least seventy-hours. What your bug-out bag must contain depends mostly on the geographical region you belong to, because regions prone to hurricanes will have different survival requirements as opposed to, let’s say, an area where frequent blizzards occur. There are a number of disasters that make the possession of a bug-out bag extremely important. Natural disasters, such as earthquakes, hurricanes, tornadoes and floods, are quite unpredictable. Therefore, it is important to be prepared for such disasters to be able to evacuate the disaster-stricken area as quickly as possible. In Natural DisastersOnly if you have the necessary supplies will you be able to survive the intensity of a natural disaster. It is important to attend to your needs before you decide to aid others. Hence, the importance of a bug-out bag cannot be stressed enough for the survival of natural disasters as it’s important that you realize that it’s not just about what you will need – it’s also about helping people that you may come across on the way in the midst of a disaster. The more people that are prepared, the better. You never know what situations may arise and who is going to need your help. In Technological DisastersTechnological disasters, such as the failure of a dam, a nuclear meltdown, power grid problems or utility failure, could all result in black-outs. In the absence of electricity, you could face a number of different problems. Being stuck in the dark for an indefinite period of time can be quite a challenge, especially if the electrical appliances that make your life easier are no longer working. Therefore, it is important to have sufficient supplies that aid you to survive for at least a period of seventy-two hours when such disasters strike.</p>]]></description>
+            <link>https://thegrid.ai/survival/how-would-you-feel-if-an-unfortunate-accident-occurred-that/index.html</link>
             <guid isPermaLink="false">d0f3eb74-92ab-4227-bfa8-70f893f3aec5</guid>
-            <pubDate>Sat, 21 May 2016 12:01:49 GMT</pubDate>
+            <pubDate>Sat, 21 May 2016 12:09:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
